@@ -1,0 +1,23 @@
+body {
+    background-color: skyblue;
+}
+
+header{
+    background-color: aliceblue;
+}
+main{
+    background-color: aliceblue;
+}
+footer{
+background-color: aliceblue;
+}
+
+img{
+    width: 200px;
+}
+
+h1{
+    color: blue;
+    font-size: 50px;
+    font-family: "Yu Mincho", "Hiragino Mincho ProN", serif;
+}
